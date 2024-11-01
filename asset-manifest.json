@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sentilytics/static/css/main.038683c6.css",
+    "main.js": "/Sentilytics/static/js/main.fa106331.js",
+    "static/js/453.b55eac32.chunk.js": "/Sentilytics/static/js/453.b55eac32.chunk.js",
+    "index.html": "/Sentilytics/index.html",
+    "main.038683c6.css.map": "/Sentilytics/static/css/main.038683c6.css.map",
+    "main.fa106331.js.map": "/Sentilytics/static/js/main.fa106331.js.map",
+    "453.b55eac32.chunk.js.map": "/Sentilytics/static/js/453.b55eac32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.038683c6.css",
+    "static/js/main.fa106331.js"
+  ]
+}
