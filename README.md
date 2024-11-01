@@ -5,7 +5,7 @@ Welcome to **Sentilytics** – a web-based application for analyzing the sentime
 ## 📋 Table of Contents
 - [✨ Features](#-features)
 - [🌐 Demo](#-demo)
-- [⚙️ Installation](#-installation)
+- [⚙️ Installation](#️-installation)
 - [🚀 Usage](#-usage)
 - [📤 Deployment](#-deployment)
 - [🤝 Contributing](#-contributing)
