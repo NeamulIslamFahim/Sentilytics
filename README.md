@@ -20,14 +20,14 @@ Welcome to **Sentilytics** – a web-based application for analyzing the sentime
 
 ## 🌐 Demo
 
-Check out a live demo of Sentilytics [here](https://neamulislamfahim.github.io/sentilytics/).
+Check out a live demo of Sentilytics [here](https://neamulislamfahim.github.io/Sentilytics/).
 
 ## ⚙️ Installation
 
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/NeamulIslamFahim/sentilytics.git
+    git clone https://github.com/NeamulIslamFahim/Sentilytics.git
     cd Sentilytics
     ```
 
