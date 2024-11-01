@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sentiment_analysis/static/css/main.038683c6.css",
-    "main.js": "/sentiment_analysis/static/js/main.650b1c03.js",
-    "static/js/453.b55eac32.chunk.js": "/sentiment_analysis/static/js/453.b55eac32.chunk.js",
-    "index.html": "/sentiment_analysis/index.html",
-    "main.038683c6.css.map": "/sentiment_analysis/static/css/main.038683c6.css.map",
-    "main.650b1c03.js.map": "/sentiment_analysis/static/js/main.650b1c03.js.map",
-    "453.b55eac32.chunk.js.map": "/sentiment_analysis/static/js/453.b55eac32.chunk.js.map"
+    "main.css": "/sentilytics/static/css/main.038683c6.css",
+    "main.js": "/sentilytics/static/js/main.93c8c991.js",
+    "static/js/453.b55eac32.chunk.js": "/sentilytics/static/js/453.b55eac32.chunk.js",
+    "index.html": "/sentilytics/index.html",
+    "main.038683c6.css.map": "/sentilytics/static/css/main.038683c6.css.map",
+    "main.93c8c991.js.map": "/sentilytics/static/js/main.93c8c991.js.map",
+    "453.b55eac32.chunk.js.map": "/sentilytics/static/js/453.b55eac32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.038683c6.css",
-    "static/js/main.650b1c03.js"
+    "static/js/main.93c8c991.js"
   ]
 }
